@@ -14,8 +14,9 @@ permalink:           pretty
 title:               Naringu
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
-baseurl:            pretendB/
+baseurl:            /pretendB/
 url:                https://mengyangxu.github.io
+
 paginate:            7
 
 # About/contact
