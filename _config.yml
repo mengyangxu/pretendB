@@ -11,9 +11,9 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         '装逼只是我喜欢的一种生活方式'
+title:               Pretend B
+tagline:             '装逼是一门学问'
+description:         '装逼只是我的一种生活态度'
 baseurl:            /pretendB/
 url:                https://mengyangxu.github.io
 
